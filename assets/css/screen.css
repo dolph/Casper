@@ -598,12 +598,6 @@ margin on the iframe, cause it breaks stuff. */
     font-weight: bold;
 }
 
-.publish-date {
-    display: block;
-    font-size: 1.4rem;
-    line-height: 1.5em;
-}
-
 /* ==========================================================================
    5. Single Post - When you click on an individual post
    ========================================================================== */
@@ -652,25 +646,6 @@ margin on the iframe, cause it breaks stuff. */
     width: 126%;
     max-width: none;
     margin: 0 -13%;
-}
-
-/* The author credit area after the post */
-.post-footer {
-    position: relative;
-    margin: 4rem 0 0 0;
-    padding: 4rem 0 0 0;
-    border-top: #EBF2F6 1px solid;
-}
-
-.post-footer h4 {
-    font-size: 1.8rem;
-    margin: 0;
-}
-
-.post-footer p {
-    margin: 1rem 0;
-    font-size: 1.4rem;
-    line-height: 1.6em;
 }
 
 /* list of author links - location / url */
