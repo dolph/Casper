@@ -1125,7 +1125,8 @@ margin on the iframe, cause it breaks stuff. */
    ========================================================================== */
 
 .comments {
-    margin-top: 4rem;
+    margin-top: 7rem;
+    margin-bottom: -4rem;
     text-align: center;
     color: #bbc7cc;
 }
